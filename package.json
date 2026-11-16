@@ -1,0 +1,32 @@
+{
+  "name": "log-analyzer-dashboard",
+  "version": "1.0.0",
+  "description": "Full-stack dashboard for the Security Log Analyzer: React + TypeScript frontend, Node.js API, SQLite, Python analysis microservice.",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "start": "node --disable-warning=ExperimentalWarning server/index.ts",
+    "dev": "node scripts/build.mjs --watch & node --disable-warning=ExperimentalWarning --watch server/index.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "node --disable-warning=ExperimentalWarning --test server/test/*.test.ts",
+    "test:e2e": "node --disable-warning=ExperimentalWarning --test --test-concurrency=1 e2e/*.test.ts",
+    "check": "npm run typecheck && npm test && npm run build && npm run test:e2e"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "zod": "^3.25.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.18.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "esbuild": "^0.28.0",
+    "playwright": "^1.63.0",
+    "typescript": "^6.0.0"
+  }
+}

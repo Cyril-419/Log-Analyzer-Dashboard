@@ -1,0 +1,3674 @@
+[
+ {
+  "TimeCreated": "2026-11-16T00:18:26.5636910-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.15",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T00:23:32.3283720-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.2",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T00:29:09.8204240-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.16",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T00:29:29.9035770-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.39",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T00:31:03.1716480-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.52",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T00:32:44.4821440-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.30",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T00:38:18.6081070-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.29",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T00:39:48.3255670-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.11",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T00:44:07.5762280-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.34",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T00:45:42.8682380-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.55",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T00:53:22.1015450-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.52",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T00:53:56.9613930-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.46",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T00:55:33.4174350-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.11",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T00:57:10.0124130-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.15",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T01:01:23.0125380-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.59",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T01:06:50.3764970-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.37",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T01:13:20.0245410-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.5",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T01:15:28.6928800-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.3",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T01:18:37.2990550-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.30",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T01:19:52.6337410-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.39",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T01:22:20.1208160-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.52",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T01:26:00.8835820-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.57",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T01:29:58.3143400-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.23",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T01:30:40.9452230-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.3",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T01:30:47.2592110-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.56",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T01:33:47.1363900-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.36",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T01:39:54.4623240-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.16",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T01:40:45.8804080-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.47",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T01:46:36.1724020-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.47",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T01:46:51.7479420-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.13",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T01:47:36.4020010-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.30",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T01:52:26.8674830-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.55",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T01:53:30.4600650-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.9",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T01:55:46.6674640-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.25",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T01:56:50.9732410-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.36",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T01:58:03.0204550-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.12",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T02:02:40.0071600-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.17",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T02:03:08.8703430-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.18",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T02:03:55.1442200-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.59",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T02:06:28.9194440-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.23",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T02:07:25.6903650-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.52",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T02:10:01.5768870-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.57",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T02:19:55.2487650-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.54",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T02:22:52.5785200-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.18",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T02:23:01.3012860-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.34",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T02:24:41.9466750-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.56",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T02:25:51.9606060-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.9",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T02:28:28.8909130-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.19",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T02:29:27.6042030-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.4",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T02:31:36.8233640-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.57",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T02:33:23.6224280-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.35",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T02:34:29.2012390-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.11",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T02:35:44.8340360-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.47",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T02:42:21.4152050-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.28",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T02:44:36.8762280-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.46",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T02:50:38.7922570-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.26",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T02:53:59.0411970-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.48",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T02:55:42.7024110-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.39",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T03:02:37.5286510-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.56",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T03:15:36.7643420-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.3",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T03:21:51.0859630-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.54",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T03:23:25.5476240-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.50",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T03:31:49.8606580-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.58",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T03:32:10.2047060-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.27",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T03:35:35.7957530-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.35",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T03:38:00.5238820-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.38",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T03:45:51.3113080-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.16",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T03:46:57.4206370-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.2",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T03:49:38.6403030-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.11",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T03:50:06.7155250-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.9",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T03:55:09.1845220-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.47",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T03:56:52.4621800-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.18",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:00:00.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:00:03.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:00:06.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:00:09.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:00:12.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:00:15.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:00:18.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:00:21.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:00:24.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:00:27.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:00:30.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:00:33.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:00:36.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:00:39.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:00:42.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:00:45.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:00:48.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:00:51.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:00:54.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:00:57.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:01:00.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:01:03.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:01:06.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:01:09.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:01:12.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:01:15.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:01:18.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:01:21.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:01:24.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:01:27.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:01:30.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:01:33.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:01:36.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:01:39.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:01:42.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:01:45.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:01:48.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:01:51.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:01:54.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:01:57.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "203.0.113.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:04:31.6605940-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.6",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:10:17.9732080-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.9",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:14:02.0616820-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.6",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:14:25.4926320-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.49",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:18:06.0780930-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.39",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:36:19.9286750-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.34",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:41:21.1092360-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.33",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:41:52.0283150-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.25",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:44:07.0033840-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.9",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:44:36.8005930-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.11",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:45:31.9572860-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.42",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:46:45.4756100-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.3",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:51:37.9233060-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.3",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:53:01.3402030-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.54",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T04:53:07.6969910-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.49",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T05:02:51.1931080-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.39",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T05:19:39.6208810-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.54",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T05:20:07.4244810-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.39",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T05:22:32.1486620-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.53",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T05:25:47.0891330-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.5",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T05:26:27.3862510-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.26",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T05:29:03.5003300-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.38",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T05:32:40.6792600-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.22",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T05:36:50.8911790-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.12",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T05:39:01.2191820-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.17",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T05:39:30.1074810-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.25",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T05:47:11.3117560-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.50",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T05:53:55.3731890-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.17",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T05:54:36.0021630-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.53",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T05:55:46.4663250-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.59",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T05:59:51.2724570-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.54",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T06:07:04.6043470-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.26",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T06:15:33.0504720-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.55",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T06:18:35.7836400-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.23",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T06:24:15.1590910-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.52",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T06:25:10.7532980-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.44",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T06:26:47.5598360-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.58",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T06:30:04.3267180-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.28",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T06:37:03.1350550-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.4",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T06:38:42.1429470-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.42",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T06:43:13.2525150-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.43",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T06:44:25.4504210-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.42",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T07:00:04.1793250-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.9",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T07:03:36.2474380-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.11",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T07:06:56.1030420-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.7",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T07:09:07.9211160-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.49",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T07:10:51.8623440-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.28",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T07:12:03.8667050-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.2",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T07:12:21.6722940-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.16",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T07:24:41.8255950-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T07:26:24.0852100-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.56",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T07:27:05.4942510-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.46",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T07:27:15.8037540-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.4",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T07:32:51.9475610-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.43",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T07:33:42.7323720-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.12",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T07:39:16.2093430-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.17",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T07:39:53.2891170-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.55",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T07:40:30.1993740-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.8",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T07:41:42.6461400-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.31",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T07:44:32.4806870-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.17",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T07:45:50.1005860-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.19",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T07:47:16.7999820-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.14",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T07:51:07.3643760-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.23",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T08:10:59.9074980-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.53",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T08:11:19.5966930-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.22",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T08:13:17.8283620-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.34",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T08:19:33.1078560-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.24",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T08:32:19.8899590-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T08:33:53.4619080-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.59",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T08:34:07.4361100-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.43",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T08:34:08.9671600-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.35",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T08:34:47.2572690-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.22",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T08:34:54.1084230-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.43",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T08:35:49.6181040-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.9",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T08:41:28.9929660-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.47",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T08:47:06.2112400-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.43",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T08:47:23.9749690-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.55",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T08:48:14.4329790-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.48",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T08:55:21.0361330-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.48",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T08:56:14.7577420-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.48",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T09:03:10.5235980-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.44",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T09:08:50.3655230-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.30",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T09:13:56.5168600-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.22",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T09:17:27.6364210-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.22",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T09:18:38.0627890-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.43",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T09:21:15.0713850-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.59",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T09:24:08.8790780-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.13",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T09:24:37.6980210-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.57",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T09:27:08.7657780-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.50",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T09:31:09.8567790-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.6",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T09:35:41.5026220-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.22",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T09:37:01.3645060-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.3",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T09:42:25.1668380-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.30",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T09:47:02.1577600-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.59",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T09:47:15.8213830-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.12",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T09:47:22.3539620-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.18",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T09:48:40.9002630-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.57",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T09:50:32.7245290-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.30",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T09:57:21.5905470-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.29",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T10:00:00.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "admin",
+  "IpAddress": "198.51.100.23",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T10:00:20.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "administrator",
+  "IpAddress": "198.51.100.23",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T10:00:21.8526060-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.44",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T10:00:40.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "root",
+  "IpAddress": "198.51.100.23",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T10:01:00.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "test",
+  "IpAddress": "198.51.100.23",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T10:01:20.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "guest",
+  "IpAddress": "198.51.100.23",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T10:01:40.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "oracle",
+  "IpAddress": "198.51.100.23",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T10:02:00.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "postgres",
+  "IpAddress": "198.51.100.23",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T10:02:20.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "ubuntu",
+  "IpAddress": "198.51.100.23",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T10:02:40.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "user",
+  "IpAddress": "198.51.100.23",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T10:03:00.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "support",
+  "IpAddress": "198.51.100.23",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T10:04:03.3465090-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.49",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T10:09:41.9204300-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.26",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T10:12:39.8959130-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.58",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T10:13:05.0380480-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.55",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T10:15:36.1290520-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.33",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T10:15:42.4882850-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.4",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T10:15:46.6248010-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.57",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T10:28:13.2152450-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.5",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T10:34:58.1177210-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.51",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T10:38:43.0080520-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.25",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T10:39:33.9097250-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.44",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T10:40:25.2386470-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.11",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T10:45:58.9133260-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.49",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T10:47:57.8568620-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.55",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T10:58:28.4800960-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.41",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T11:02:01.2003580-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.44",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T11:03:59.1017740-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.49",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T11:06:18.5761230-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.25",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T11:06:52.4470580-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.41",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T11:15:12.2644090-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.16",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T11:16:50.6241100-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.26",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T11:18:40.1580100-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.27",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T11:26:16.9623870-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.44",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T11:27:20.4540840-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.9",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T11:28:47.1998660-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.58",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T11:33:24.6570000-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.50",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T11:33:46.6709090-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.5",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T11:37:00.8202760-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.39",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T11:38:32.5951840-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.50",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T11:42:21.6855180-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.33",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T11:51:00.8791180-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.47",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T11:51:05.6604780-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.20",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T11:52:46.5047520-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.14",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T11:52:51.2160290-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.32",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T11:55:58.9664710-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.44",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T12:00:34.7379190-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.9",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T12:04:00.6744530-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.51",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T12:08:42.4248950-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.58",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T12:13:17.0205640-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.21",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T12:21:27.6876930-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.38",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T12:35:24.8194730-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.46",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T12:38:56.8380290-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.33",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T12:52:16.0166150-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.17",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T13:02:09.8469830-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.15",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T13:02:40.1253380-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.7",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T13:06:08.0218500-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.40",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T13:06:18.9411310-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.39",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T13:07:28.7763370-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.52",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T13:09:02.3184480-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.58",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T13:12:34.5850390-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.7",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T13:17:14.9590540-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.20",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T13:22:32.4532710-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.56",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T13:23:24.6571260-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.27",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T13:24:49.1910160-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.58",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T13:25:38.8963760-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.22",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T13:28:10.3297020-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.49",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T13:28:33.3501690-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.21",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T13:31:11.2434030-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.19",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T13:33:03.1154330-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.58",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T13:38:40.0789500-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.27",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T13:39:19.3308310-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.34",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T13:42:11.6806980-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.47",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T13:42:49.0503550-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.44",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T13:44:53.0495240-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.54",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T13:46:05.1801170-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.49",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T13:46:48.2764290-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.13",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T13:49:07.2495500-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.58",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T13:49:26.8409440-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.59",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T13:53:32.0946480-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.8",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T13:53:42.2982720-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.48",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T13:53:46.6523560-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.23",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T13:57:24.7574810-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.11",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T13:57:31.4320990-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.46",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T14:05:23.8302720-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.33",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T14:09:43.5385010-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.52",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T14:26:35.0505290-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.6",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T14:27:12.5310470-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.6",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T14:32:01.7663100-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.6",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T14:33:06.7535920-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.30",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T14:33:27.5960430-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.55",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T14:35:29.8174390-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.44",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T14:38:48.6974230-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T14:42:02.7833660-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.50",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T14:43:22.4184370-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.43",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T14:46:26.1748360-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.40",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T14:50:54.1179490-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.12",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T14:57:44.1437170-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.53",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T15:04:54.3592170-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.47",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T15:08:21.2195930-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.38",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T15:14:41.5966350-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.12",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T15:15:42.6919490-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.44",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T15:15:55.0749390-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.50",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T15:24:32.2047770-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.54",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T15:32:01.5691390-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.41",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T15:32:18.5724510-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.9",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T15:41:33.5721120-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.23",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T15:43:30.3505090-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.55",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T15:46:09.6542250-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.53",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T15:47:23.4383430-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.51",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T15:54:58.0110650-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.3",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T16:00:00.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "192.0.2.77",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T16:00:05.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "192.0.2.77",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T16:00:10.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "192.0.2.77",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T16:00:15.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "192.0.2.77",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T16:00:20.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "192.0.2.77",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T16:00:25.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "192.0.2.77",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T16:00:30.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "192.0.2.77",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T16:00:35.0000000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "192.0.2.77",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T16:00:45.0000000-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "192.0.2.77",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T16:07:58.6731490-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.41",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T16:12:55.0431760-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.27",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T16:27:00.1499810-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.57",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T16:30:01.9236440-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.48",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T16:33:31.6458760-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.40",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T16:34:41.5708290-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.34",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T16:37:16.5466800-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.53",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T16:38:02.3195300-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.18",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T16:39:51.0616230-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.48",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T16:40:34.2498770-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.30",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T16:49:32.0003770-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.14",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T16:49:45.1471060-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.14",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T16:53:22.1873990-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.47",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T17:03:22.2051560-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.58",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T17:05:07.4571190-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.47",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T17:08:36.4009120-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.24",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T17:10:38.4206700-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.25",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T17:11:37.8825260-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.32",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T17:15:51.5244450-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.34",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T17:18:28.9763880-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.50",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T17:19:04.3876130-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.52",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T17:20:39.9968210-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.40",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T17:23:07.2303710-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.24",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T17:24:12.1827250-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.47",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T17:31:45.6252340-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.15",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T17:32:16.6541940-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.21",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T17:32:22.6833230-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.50",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T17:34:26.1272730-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.30",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T17:39:57.1966370-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.49",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T17:40:32.1355930-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.19",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T17:51:17.3706210-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.43",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T17:52:03.4088800-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.18",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T17:55:36.3245760-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.17",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T17:59:52.2249740-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.26",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T18:04:51.6695070-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.29",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T18:18:07.0847190-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.46",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T18:18:14.7738570-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.53",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T18:18:26.3928900-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.12",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T18:18:39.5170140-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.39",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T18:20:35.1138650-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.8",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T18:25:32.5074020-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.3",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T18:27:47.7260560-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.33",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T18:37:41.3660450-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.43",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T18:47:38.6188380-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.29",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T18:52:56.7746770-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.14",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T19:09:27.3972300-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.17",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T19:22:57.0877560-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.12",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T19:24:15.1543890-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.54",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T19:25:07.7891790-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.49",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T19:47:56.7000290-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.20",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T19:51:55.9429310-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.30",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T19:53:47.3462470-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.22",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T19:55:01.3938310-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.44",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T19:55:27.0456730-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.53",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T20:00:47.6946280-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.10",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T20:03:16.1717800-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.7",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T20:04:24.6738430-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.38",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T20:07:09.0309720-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.17",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T20:08:39.8948070-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.24",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T20:09:29.7857520-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.22",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T20:13:23.8961840-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T20:15:36.8422240-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.28",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T20:23:32.8630490-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.46",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T20:24:41.6908760-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.35",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T20:25:04.0820910-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.49",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T20:28:19.3777440-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.41",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T20:30:41.6910300-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.28",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T20:33:27.1150810-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.22",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T20:35:31.2932270-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.28",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T20:37:04.3207900-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.31",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T20:50:43.2026120-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.49",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T20:51:16.6572720-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.34",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T20:52:05.7935870-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.45",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T20:56:26.2721330-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.21",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T20:57:30.6457460-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.57",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T21:00:15.4814640-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.4",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T21:02:10.8066190-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.8",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T21:03:06.9000420-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.25",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T21:11:58.3136130-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.53",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T21:12:21.0246180-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.42",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T21:13:42.2226580-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.31",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T21:20:22.6192460-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.13",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T21:35:35.4037850-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.19",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T21:38:18.3897950-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.57",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T21:44:17.3342810-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.29",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T21:47:22.9222660-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.20",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T21:49:25.4390000-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.20",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T21:54:59.6786540-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.36",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T21:55:21.1999610-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.28",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T21:59:09.4089920-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.26",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T21:59:45.6135240-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.41",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T22:02:00.1572630-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.2",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T22:02:51.8315230-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.15",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T22:03:57.8038730-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "tnguyen",
+  "IpAddress": "10.0.0.50",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T22:05:24.9558220-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.16",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T22:08:40.7700020-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.46",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T22:15:08.0910670-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.56",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T22:28:30.3119760-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.33",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T22:30:15.8358940-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.33",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T22:33:13.3864860-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.35",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T22:37:06.9249050-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.24",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T22:42:11.6393460-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.37",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T22:47:01.4062770-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.11",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T22:48:09.5371580-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.32",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T22:49:22.0548350-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.8",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T22:50:14.6729010-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.43",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T22:50:59.9488440-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.41",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T22:51:59.2098150-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.31",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T22:53:37.8888620-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.42",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T22:54:35.6809930-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.58",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T22:56:19.3660050-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.58",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T22:56:20.0178390-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "hr_admin",
+  "IpAddress": "10.0.0.6",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T22:56:30.9633510-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.30",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T23:01:24.8176070-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.34",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T23:08:49.6561410-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.29",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T23:13:31.9883250-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.22",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T23:13:36.6721870-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.50",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T23:16:36.6621550-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.30",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T23:18:26.8668100-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.51",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T23:32:14.5447400-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.19",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T23:33:41.5558740-06:00",
+  "EventID": 4625,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "cyril",
+  "IpAddress": "10.0.0.16",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T23:38:06.9230230-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.25",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T23:41:59.3685500-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.11",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T23:44:28.6775690-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "akim",
+  "IpAddress": "10.0.0.35",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T23:46:50.9682650-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "mgarcia",
+  "IpAddress": "10.0.0.51",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T23:48:15.8238400-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "backup",
+  "IpAddress": "10.0.0.21",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T23:55:14.4052170-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "dev",
+  "IpAddress": "10.0.0.46",
+  "LogonType": "3"
+ },
+ {
+  "TimeCreated": "2026-11-16T23:56:11.6265130-06:00",
+  "EventID": 4624,
+  "Computer": "DC01.corp.local",
+  "TargetUserName": "jsmith",
+  "IpAddress": "10.0.0.49",
+  "LogonType": "3"
+ }
+]

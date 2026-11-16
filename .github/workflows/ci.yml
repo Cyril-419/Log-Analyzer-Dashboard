@@ -1,0 +1,83 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-and-test:
+    name: Type-check, API tests, build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+
+      - name: Type-check (server, shared types and React app)
+        run: npm run typecheck
+
+      - name: API tests
+        run: npm test
+
+      - name: Build frontend
+        run: npm run build
+
+  e2e:
+    name: End-to-end (browser + Node API + Python analyzer)
+    runs-on: ubuntu-latest
+    needs: build-and-test
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      # The analysis engine lives in its own repo and runs as a separate service.
+      - name: Check out the Python analyzer service
+        uses: actions/checkout@v4
+        with:
+          repository: Cyril-419/Security-Log-Analyzer
+          path: analyzer
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Start the analyzer service on port 8080
+        working-directory: analyzer
+        run: |
+          python -m loganalyzer serve --port 8080 > ../analyzer.log 2>&1 &
+          for i in $(seq 1 30); do curl -sf localhost:8080/health && exit 0; sleep 0.5; done
+          echo "analyzer did not start"; cat ../analyzer.log; exit 1
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies and the Chromium browser
+        run: |
+          npm install --no-audit --no-fund
+          npx playwright install --with-deps chromium
+
+      - name: Build frontend
+        run: npm run build
+
+      - name: End-to-end tests
+        run: npm run test:e2e
+
+      - name: Analyzer log (if something failed)
+        if: failure()
+        run: cat analyzer.log || true
